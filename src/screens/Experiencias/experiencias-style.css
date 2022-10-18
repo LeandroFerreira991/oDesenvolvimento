@@ -1,0 +1,17 @@
+.experiencia__section{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    height: 50vh;
+    flex-wrap: wrap;
+    padding: 6% 0 6% 0;
+}
+
+.experiencia__section__item{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: start;
+    width: 60%;
+}
